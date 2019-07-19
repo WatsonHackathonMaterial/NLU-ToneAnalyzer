@@ -19,6 +19,8 @@
 
 2. [Discover hidden facebook usage](https://developer.ibm.com/patterns/discover-hidden-facebook-usage-insights/)
 
+3. [Customer Engagement App](https://github.com/watson-developer-cloud/customer-engagement-nodejs)
+
 3. [Integrate Watson APIs into Salesforce apps](https://developer.ibm.com/patterns/integrate-watson-ai-into-salesforce-apps/)
 
 
