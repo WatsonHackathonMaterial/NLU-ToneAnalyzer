@@ -1,12 +1,8 @@
 # NLU-ToneAnalyzer
 
-# Demo for Tone Analyzer 
+1. [Demo for Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/?cm_mc_uid=63566344502315172485634&cm_mc_sid_50200000=49749461563547773932&cm_mc_sid_52640000=37859601563548654410)
 
-https://tone-analyzer-demo.ng.bluemix.net/?cm_mc_uid=63566344502315172485634&cm_mc_sid_50200000=49749461563547773932&cm_mc_sid_52640000=37859601563548654410
-
-# Demo for NLU 
-
-https://natural-language-understanding-demo.ng.bluemix.net/?cm_mc_uid=63566344502315172485634&cm_mc_sid_50200000=49749461563547773932&cm_mc_sid_52640000=37859601563548654410
+2. [Demo for NLU](https://natural-language-understanding-demo.ng.bluemix.net/?cm_mc_uid=63566344502315172485634&cm_mc_sid_50200000=49749461563547773932&cm_mc_sid_52640000=37859601563548654410)
 
 
 # Tutorials 
